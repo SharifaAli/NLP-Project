@@ -1,1 +1,2 @@
 # NLP-Project
+The problem I aim to address is to analyze customer reviews on Amazon to gain insights into customer sentiments. My primary objective is to classify product reviews into two distinct categories: positive and negative. To accomplish this, I will employ a range of natural language processing and machine learning techniques to accurately analyze and classify the emotions conveyed in the reviews.
